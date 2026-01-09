@@ -2,6 +2,10 @@
 
 A beginner-friendly Streamlit application to track students and their expenses.
 
+## 🚀 Live Demo
+
+**[View Live App](https://studenttracker-qjiuacspnn2nrzhbhn8tux.streamlit.app/)**
+
 ## Features
 
 - 📊 **Dashboard** - View overview of students and expenses
