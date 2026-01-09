@@ -1,0 +1,7 @@
+expense_id,student_id,category,amount,date,description
+1,1,Tuition,5000,2024-01-15,Semester fee
+2,1,Books,250,2024-01-20,Textbooks
+3,2,Tuition,5000,2024-01-20,Semester fee
+4,2,Supplies,100,2024-02-01,Lab supplies
+5,3,Tuition,5000,2024-02-01,Semester fee
+6,3,Books,300,2024-02-05,Course materials

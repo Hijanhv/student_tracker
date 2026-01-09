@@ -1,0 +1,4 @@
+student_id,name,email,phone,enrollment_date
+1,John Doe,john.doe@email.com,123-456-7890,2024-01-15
+2,Jane Smith,jane.smith@email.com,234-567-8901,2024-01-20
+3,Bob Johnson,bob.johnson@email.com,345-678-9012,2024-02-01
